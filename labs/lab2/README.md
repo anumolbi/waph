@@ -6,8 +6,14 @@
 
 ## Overview and Requirements 
 
-This lab consists of multiple hands-on exercises covered in Lectures 4-6. Ensure you follow the instructions to do the lecture exercises to complete this lab.
-This lab has two tasks with multiple sub-tasks with grade distribution as follows.
+This lab deals with front-end web development technologies including HTML, CSS, JavaScript, Ajax, jQuery and integrating with Web APIs. The exercises cover developing a simple HTML page, adding styling through CSS, making the page dynamic using JavaScript, asynchronous communication with Ajax, using the jQuery library, and integrating with public Web APIs.
+
+Outcomes: From this lab, I learned how to develop the front-end client-side of a web application using HTML for content, CSS for presentation, and JavaScript for dynamic interactivity. I gained experience with making asynchronous requests and partial page updates using Ajax along with jQuery for easier DOM manipulation and Ajax handling. Integrating public Web APIs expanded my understanding of building dynamic sites.
+
+My Lab Folder on GitHub: https://github.com/myusername/waph-myusername/tree/main/labs/lab2
+
+In this lab, I created a simple HTML page with basic tags, styled it using inline, internal and external CSS, added dynamic behavior by including JavaScript code, enabled asynchronous communication via Ajax using vanilla JS and jQuery, and integrated external Web APIs to fetch dynamic data.
+
 
 ### Task 1: Basic HTML with forms, and JavaScript 
 
