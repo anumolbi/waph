@@ -52,7 +52,7 @@ You can write a report using Markdown format or any Word processor, i.e., you do
 
 Your report should follow the template provided in Lecture 2 ([https://github.com/phungph-uc/waph/blob/main/README-template.md](https://github.com/phungph-uc/waph/blob/main/README-template.md)) which should include the course name and instructor, your name and email together with your headshot (150x150 pixels), and sub-sections of the assignment's overview, and each task and sub-task.
 
-In Part I, provide an overview of steps how you performed the attack. Include the video demonstration link. For Part II, ensure to eraborate your understanding of the vulnerabilities and detail the  preventation mechanism comprehensively.
+In Part I, provide an overview of steps how you performed the attack. Include the video demonstration link. For Part II, ensure to elaborate your understanding of the vulnerabilities and detail the prevention mechanisms comprehensively.
 
 ## Submission
 
